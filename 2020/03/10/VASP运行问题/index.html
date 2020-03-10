@@ -123,7 +123,7 @@
 
 
 
-  <title>标签 | 小黑屋</title>
+  <title>VASP运行问题 | 小黑屋</title>
   
 
 
@@ -272,40 +272,195 @@
 
   <div id="posts" class="posts-expand">
     
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://xiaoheimyl.github.io/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/logo5.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="小黑屋">
+    </span>
+
     
-    
-    <div class="post-block page">
       <header class="post-header">
 
-	<h1 class="post-title" itemprop="name headline">标签</h1>
-
-
-
-</header>
-
-      
-      
-      
-      <div class="post-body">
         
         
-          <div class="tag-cloud">
-            <div class="tag-cloud-title">
-                目前共计 2 个标签
-            </div>
-            <div class="tag-cloud-tags">
-              <a href="/tags/%E8%BD%BD%E4%BD%93/" style="font-size: 12px; color: #ccc">载体</a> <a href="/tags/%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/" style="font-size: 12px; color: #ccc">运行问题</a>
-            </div>
-          </div>
+          <h1 class="post-title" itemprop="name headline">VASP运行问题</h1>
         
-      </div>
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2020-03-10T12:38:02+08:00">2020-03-10</time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E8%AE%A1%E7%AE%97%E6%A8%A1%E6%8B%9F/" itemprop="url" rel="index">
+                    <span itemprop="name">计算模拟</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+            <span class="post-meta-divider">|</span>
+            <span class="page-pv">本文总阅读数 <i class="fa fa-file-o"></i>
+            <span class="busuanzi-value" id="busuanzi_value_page_pv" ></span>次
+            </span>
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
       
       
+
+      
+        <p>最近在vasp计算时遇到一个个问题导致计算无法进行：</p>
+<p>mpirun has detected an attempt to run as root</p>
+<p>Open MPI does not support recursive calls of mpiexec</p>
+<p>具体情况是这样的：</p>
+<p>有一天我打开服务器输入计算指令准备开始计算，输入了mpirun -np 4 vasp_std后，弹出了下面的消息：</p>
+<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310122554.png" alt></p>
+<p>它突然说我用root权限运行mpirun时会存在风险，最好加上 --allow-run-as-root命令。我：嗯？？？？之前用这么久也没见它提示过我有风险啊。好吧要我加就加上吧，结果：</p>
+<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310122936.png" alt></p>
+<p>Open MPI does not support recursive calls of mpiexec</p>
+<p>说是openmpi不支持某某指令，好吧可能是mpi并行出现问题了，那我就不用mpirun的指令，只用vasp_std试试：</p>
+<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310122923.png" alt></p>
+<p>结果还是这个mpiexec出现问题，按他的说法试用mpiexec --help:</p>
+<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310123036.png" alt></p>
+<p>fxxk!!!</p>
+<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310123126.png" alt></p>
+<p>一大堆不懂的指令，拉到底部显示的是</p>
+<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310123143.png" alt></p>
+<p>mpiexec这个指令也是属于openmpi的，那就是openmpi的问题。我上网查了一下也有人说这不是vasp的问题，是MPI库的问题。于是我花了一个下午把\opt\intel里的MPI库卸了重装了一次，发现还是不行。依然是一开始的指令。</p>
+<p>后来上网找了很多方法都没用。仔细想了想，现在vasp无法运行都是因为openmpi的问题，但是我安装的时候都只安装了MPI库和vasp，openmpi在哪里来的呢？</p>
+<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/openmpi.png" alt></p>
+<p>是一个和vasp库和软件无关的位置，那是不是运行vasp的时候与这个openmpi冲突了？那么openmpi必须也是已经运行状态的，于是就差了一下.bashrc有没有配置openmpi。输入vi ~/.bashrc</p>
+<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/p4vasp.png" alt></p>
+<p>发现配置p4vasp环境的时候果然有配置openmpi，把这几行命令注释了，然后关闭重新进入超算。</p>
+<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/%E6%B3%A8%E9%87%8A.png" alt></p>
+<p>之后重新输入运行的指令，见到了熟悉的提醒！！！</p>
+<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/%E6%88%90%E5%8A%9F.png" alt></p>
+<p>耶！！！！</p>
+
       
     </div>
     
     
     
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/" rel="tag"># 运行问题</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2020/03/05/%E8%BD%BD%E4%BD%93%E8%A1%A8%E9%9D%A2%E5%AF%B9%E5%82%AC%E5%8C%96%E5%89%82%E5%90%88%E6%88%90%E7%9A%84%E5%BD%B1%E5%93%8D/" rel="next" title="载体表面对催化剂合成的影响">
+                <i class="fa fa-chevron-left"></i> 载体表面对催化剂合成的影响
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
   </div>
 
 

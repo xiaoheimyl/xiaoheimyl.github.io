@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>VASP运行问题</title>
+    <url>/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/</url>
+    <content><![CDATA[<p>最近在vasp计算时遇到一个个问题导致计算无法进行：</p>
+<p>mpirun has detected an attempt to run as root</p>
+<p>Open MPI does not support recursive calls of mpiexec</p>
+<p>具体情况是这样的：</p>
+<p>有一天我打开服务器输入计算指令准备开始计算，输入了mpirun -np 4 vasp_std后，弹出了下面的消息：</p>
+<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310122554.png" alt></p>
+<p>它突然说我用root权限运行mpirun时会存在风险，最好加上 --allow-run-as-root命令。我：嗯？？？？之前用这么久也没见它提示过我有风险啊。好吧要我加就加上吧，结果：</p>
+<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310122936.png" alt></p>
+<p>Open MPI does not support recursive calls of mpiexec</p>
+<p>说是openmpi不支持某某指令，好吧可能是mpi并行出现问题了，那我就不用mpirun的指令，只用vasp_std试试：</p>
+<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310122923.png" alt></p>
+<p>结果还是这个mpiexec出现问题，按他的说法试用mpiexec --help:</p>
+<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310123036.png" alt></p>
+<p>fxxk!!!</p>
+<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310123126.png" alt></p>
+<p>一大堆不懂的指令，拉到底部显示的是</p>
+<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310123143.png" alt></p>
+<p>mpiexec这个指令也是属于openmpi的，那就是openmpi的问题。我上网查了一下也有人说这不是vasp的问题，是MPI库的问题。于是我花了一个下午把\opt\intel里的MPI库卸了重装了一次，发现还是不行。依然是一开始的指令。</p>
+<p>后来上网找了很多方法都没用。仔细想了想，现在vasp无法运行都是因为openmpi的问题，但是我安装的时候都只安装了MPI库和vasp，openmpi在哪里来的呢？</p>
+<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/openmpi.png" alt></p>
+<p>是一个和vasp库和软件无关的位置，那是不是运行vasp的时候与这个openmpi冲突了？那么openmpi必须也是已经运行状态的，于是就差了一下.bashrc有没有配置openmpi。输入vi ~/.bashrc</p>
+<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/p4vasp.png" alt></p>
+<p>发现配置p4vasp环境的时候果然有配置openmpi，把这几行命令注释了，然后关闭重新进入超算。</p>
+<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/%E6%B3%A8%E9%87%8A.png" alt></p>
+<p>之后重新输入运行的指令，见到了熟悉的提醒！！！</p>
+<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/%E6%88%90%E5%8A%9F.png" alt></p>
+<p>耶！！！！</p>
+]]></content>
+      <categories>
+        <category>计算模拟</category>
+      </categories>
+      <tags>
+        <tag>运行问题</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>载体表面对催化剂合成的影响</title>
     <url>/2020/03/05/%E8%BD%BD%E4%BD%93%E8%A1%A8%E9%9D%A2%E5%AF%B9%E5%82%AC%E5%8C%96%E5%89%82%E5%90%88%E6%88%90%E7%9A%84%E5%BD%B1%E5%93%8D/</url>
     <content><![CDATA[<p>载体对金属催化剂的合成有至关重要的作用，它既可以提高金属的分散度，甚至合成单原子；也可以防止团聚。同时催化剂的活性、稳定性和选择性也受载体效应影响，载体效应也分为电子效应、界面效应（当活性中心不仅仅是金属组分而是金属和载体之间时，载体表现界面效应）和空间位阻效应。</p>
