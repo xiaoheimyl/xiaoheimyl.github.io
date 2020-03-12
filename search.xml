@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>可逆氢电极的制备</title>
+    <url>/2020/03/12/%E5%8F%AF%E9%80%86%E6%B0%A2%E7%94%B5%E6%9E%81%E7%9A%84%E5%88%B6%E5%A4%87/</url>
+    <content><![CDATA[<h2 id="可逆氢电极rhe的组装"><a class="markdownIt-Anchor" href="#可逆氢电极rhe的组装"></a> 可逆氢电极（RHE）的组装</h2>
+<p>一条铂丝(eg 1.5cm长，1mm直径)通过金焊接到Cu线（5cm长，1mm直径）中（图1a），放在一个玻璃管内（eg 5cm长，6mm内径），使用环氧树脂密封Cu和Pt的连接处，留10mm的Pt丝在外面。（图1b）使用一块铁氟龙胶带（teflon tape 1.5cm宽，8cm长）包裹环氧树脂端，然后用透明自动输送吸管塑料头(transparent automatic delivery pipet plastic tip )或者圆珠笔的透明通风罩紧密地安装在套件底部（图1c）。铁氟龙胶带既防止H<sub>2</sub>泄漏又隔绝氧气。</p>
+<p><img src="/2020/03/12/%E5%8F%AF%E9%80%86%E6%B0%A2%E7%94%B5%E6%9E%81%E7%9A%84%E5%88%B6%E5%A4%87/TIM%E6%88%AA%E5%9B%BE20200312114402.png" alt></p>
+<p>图1 RHE的组装</p>
+<p>用注射器往塑料头注满1.2MHCl（可以用其他活度为1的强酸溶液替换），如图2</p>
+<p><img src="/2020/03/12/%E5%8F%AF%E9%80%86%E6%B0%A2%E7%94%B5%E6%9E%81%E7%9A%84%E5%88%B6%E5%A4%87/TIM%E6%88%AA%E5%9B%BE20200312114942.png" alt></p>
+<p>图2 往塑料管注入1.2M HCl溶液</p>
+<h2 id="产生氢气"><a class="markdownIt-Anchor" href="#产生氢气"></a> 产生氢气</h2>
+<p>电极放在1.2M HCl为电解质的电解槽中，加入Pt或碳为对电极。通过10-20V交流电或商业9V电池作为电源产生电压差，对电极为正极，RHE为负极，如图3。如果使用三电极体系，将RHE连接在工作电极端，参比电极和对电极两个接头同时接在对电极上。</p>
+<p><img src="/2020/03/12/%E5%8F%AF%E9%80%86%E6%B0%A2%E7%94%B5%E6%9E%81%E7%9A%84%E5%88%B6%E5%A4%87/TIM%E6%88%AA%E5%9B%BE20200312115736.png" alt></p>
+<p>图3 氢气产生装置</p>
+<p>通电后还原的H<sub>2</sub>聚集在RHE的顶部，然后覆盖一半的Pt丝。这会维持Pt丝与H<sub>2</sub>接触，而剩下的部分与活度为1的H<sup>+</sup>溶液接触。</p>
+<h2 id="测量参比电极"><a class="markdownIt-Anchor" href="#测量参比电极"></a> 测量参比电极</h2>
+<p>H<sub>2</sub>与一半的Pt丝充分接触后，可以取出对电极，将待参比电极放入单独容器内，用离子盐桥连接，如图4。</p>
+<p><img src="/2020/03/12/%E5%8F%AF%E9%80%86%E6%B0%A2%E7%94%B5%E6%9E%81%E7%9A%84%E5%88%B6%E5%A4%87/TIM%E6%88%AA%E5%9B%BE20200312121424.png" alt></p>
+<p>图4 参比电极测量装置</p>
+<h2 id="注意事项"><a class="markdownIt-Anchor" href="#注意事项"></a> 注意事项</h2>
+<p>可以持续使用一周。测量时要注意电极溶液中不可以有气泡。需要计算通的电流量来控制产生的氢气量。</p>
+<h2 id="参考文献"><a class="markdownIt-Anchor" href="#参考文献"></a> 参考文献</h2>
+<p>Buendía-Delgadillo T, Delgadillo-Núñez F, Casillas N, et al. Construction of a Novel Reversible Hydrogen Electrode (RHE)[J]. Chem. Educator, 2011, 16: 326-328.</p>
+]]></content>
+      <categories>
+        <category>实验原理</category>
+      </categories>
+      <tags>
+        <tag>RHE</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>纳米片表面合成稳定高分散的单原子催化剂</title>
     <url>/2020/03/11/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/</url>
     <content><![CDATA[<p>在单原子催化剂制备中如何稳定单原子是一个很重要的问题。一些使单原子稳定的方式：可还原的氧化物（比如TiO<sub>2</sub>和CeO<sub>2</sub>）和石墨烯或C<sub>3</sub>N<sub>4</sub>上的缺陷有助于金属原子在载体上的稳定。Al<sub>2</sub>O<sub>3</sub>中的不饱和Al<sup>3+</sup>可以是键位中心来维持Pt原子的高分散。</p>
