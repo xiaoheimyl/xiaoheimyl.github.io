@@ -2,22 +2,22 @@
 <search>
   <entry>
     <title>可逆氢电极的制备</title>
-    <url>/2020/03/12/%E5%8F%AF%E9%80%86%E6%B0%A2%E7%94%B5%E6%9E%81%E7%9A%84%E5%88%B6%E5%A4%87/</url>
+    <url>/%E5%8F%AF%E9%80%86%E6%B0%A2%E7%94%B5%E6%9E%81%E7%9A%84%E5%88%B6%E5%A4%87/</url>
     <content><![CDATA[<h2 id="可逆氢电极rhe的组装"><a class="markdownIt-Anchor" href="#可逆氢电极rhe的组装"></a> 可逆氢电极（RHE）的组装</h2>
 <p>一条铂丝(eg 1.5cm长，1mm直径)通过金焊接到Cu线（5cm长，1mm直径）中（图1a），放在一个玻璃管内（eg 5cm长，6mm内径），使用环氧树脂密封Cu和Pt的连接处，留10mm的Pt丝在外面。（图1b）使用一块铁氟龙胶带（teflon tape 1.5cm宽，8cm长）包裹环氧树脂端，然后用透明自动输送吸管塑料头(transparent automatic delivery pipet plastic tip )或者圆珠笔的透明通风罩紧密地安装在套件底部（图1c）。铁氟龙胶带既防止H<sub>2</sub>泄漏又隔绝氧气。</p>
-<p><img src="/2020/03/12/%E5%8F%AF%E9%80%86%E6%B0%A2%E7%94%B5%E6%9E%81%E7%9A%84%E5%88%B6%E5%A4%87/TIM%E6%88%AA%E5%9B%BE20200312114402.png" alt></p>
+<p><img src="/%E5%8F%AF%E9%80%86%E6%B0%A2%E7%94%B5%E6%9E%81%E7%9A%84%E5%88%B6%E5%A4%87/TIM%E6%88%AA%E5%9B%BE20200312114402.png" alt></p>
 <p>图1 RHE的组装</p>
 <p>用注射器往塑料头注满1.2MHCl（可以用其他活度为1的强酸溶液替换），如图2</p>
-<p><img src="/2020/03/12/%E5%8F%AF%E9%80%86%E6%B0%A2%E7%94%B5%E6%9E%81%E7%9A%84%E5%88%B6%E5%A4%87/TIM%E6%88%AA%E5%9B%BE20200312114942.png" alt></p>
+<p><img src="/%E5%8F%AF%E9%80%86%E6%B0%A2%E7%94%B5%E6%9E%81%E7%9A%84%E5%88%B6%E5%A4%87/TIM%E6%88%AA%E5%9B%BE20200312114942.png" alt></p>
 <p>图2 往塑料管注入1.2M HCl溶液</p>
 <h2 id="产生氢气"><a class="markdownIt-Anchor" href="#产生氢气"></a> 产生氢气</h2>
 <p>电极放在1.2M HCl为电解质的电解槽中，加入Pt或碳为对电极。通过10-20V交流电或商业9V电池作为电源产生电压差，对电极为正极，RHE为负极，如图3。如果使用三电极体系，将RHE连接在工作电极端，参比电极和对电极两个接头同时接在对电极上。</p>
-<p><img src="/2020/03/12/%E5%8F%AF%E9%80%86%E6%B0%A2%E7%94%B5%E6%9E%81%E7%9A%84%E5%88%B6%E5%A4%87/TIM%E6%88%AA%E5%9B%BE20200312115736.png" alt></p>
+<p><img src="/%E5%8F%AF%E9%80%86%E6%B0%A2%E7%94%B5%E6%9E%81%E7%9A%84%E5%88%B6%E5%A4%87/TIM%E6%88%AA%E5%9B%BE20200312115736.png" alt></p>
 <p>图3 氢气产生装置</p>
 <p>通电后还原的H<sub>2</sub>聚集在RHE的顶部，然后覆盖一半的Pt丝。这会维持Pt丝与H<sub>2</sub>接触，而剩下的部分与活度为1的H<sup>+</sup>溶液接触。</p>
 <h2 id="测量参比电极"><a class="markdownIt-Anchor" href="#测量参比电极"></a> 测量参比电极</h2>
 <p>H<sub>2</sub>与一半的Pt丝充分接触后，可以取出对电极，将待参比电极放入单独容器内，用离子盐桥连接，如图4。</p>
-<p><img src="/2020/03/12/%E5%8F%AF%E9%80%86%E6%B0%A2%E7%94%B5%E6%9E%81%E7%9A%84%E5%88%B6%E5%A4%87/TIM%E6%88%AA%E5%9B%BE20200312121424.png" alt></p>
+<p><img src="/%E5%8F%AF%E9%80%86%E6%B0%A2%E7%94%B5%E6%9E%81%E7%9A%84%E5%88%B6%E5%A4%87/TIM%E6%88%AA%E5%9B%BE20200312121424.png" alt></p>
 <p>图4 参比电极测量装置</p>
 <h2 id="注意事项"><a class="markdownIt-Anchor" href="#注意事项"></a> 注意事项</h2>
 <p>可以持续使用一周。测量时要注意电极溶液中不可以有气泡。需要计算通的电流量来控制产生的氢气量。</p>
@@ -33,35 +33,35 @@
   </entry>
   <entry>
     <title>纳米片表面合成稳定高分散的单原子催化剂</title>
-    <url>/2020/03/11/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/</url>
+    <url>/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/</url>
     <content><![CDATA[<p>在单原子催化剂制备中如何稳定单原子是一个很重要的问题。一些使单原子稳定的方式：可还原的氧化物（比如TiO<sub>2</sub>和CeO<sub>2</sub>）和石墨烯或C<sub>3</sub>N<sub>4</sub>上的缺陷有助于金属原子在载体上的稳定。Al<sub>2</sub>O<sub>3</sub>中的不饱和Al<sup>3+</sup>可以是键位中心来维持Pt原子的高分散。</p>
 <p>文献<sup>[1]</sup>使用一种室温光催化的策略来制备高稳定性，原子级分散的Pd/TiO<sub>2</sub>纳米片催化剂，Pd载量达到1.5%。催化剂在C=C和C=O的氢化作用上有很高的催化活性和稳定性。</p>
 <h2 id="催化剂制备"><a class="markdownIt-Anchor" href="#催化剂制备"></a> 催化剂制备</h2>
 <p>首先通过TiCl<sub>4</sub>和乙二醇的水热反应制备了乙二醇覆盖超薄TiO<sub>2</sub>纳米片（两个原子层厚），XRD证实为典型的TiO<sub>2</sub>晶型，使用了Rietveld refinement计算出晶格常数。</p>
-<p><img src="/2020/03/11/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/TIM%E6%88%AA%E5%9B%BE20200309122323.png" alt></p>
+<p><img src="/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/TIM%E6%88%AA%E5%9B%BE20200309122323.png" alt></p>
 <p>然后加入H<sub>2</sub>PdCl<sub>4</sub>前驱体到分散了TiO<sub>2</sub>的水溶液中，先让Pd吸附在纳米片上。TiO<sub>2</sub>的zeta电势随pH值发生改变。当加入H<sub>2</sub>PdCl<sub>4</sub>时，溶液为酸性，[PdCl<sub>4</sub>]<sup>2-</sup>可以靠静电作用吸附在zeta电势为正的TiO<sub>2</sub>表面。（测量时将纳米片分散在不同pH值的溶液内，用zeasizer测量）</p>
 <p>在Pd吸附在TiO<sub>2</sub>表面后，用紫外灯对样品溶液照射10min。之后用TEM观察发现没有Pd纳米粒子出现，即使使用ICP测量发现Pd载量达到1.5%时都没有纳米粒子出现。</p>
 <h2 id="实验表征"><a class="markdownIt-Anchor" href="#实验表征"></a> 实验表征</h2>
 <p>通过EXAFS谱发现几乎没有Pd-Pd键峰，只有一个很明显的Pd-O键峰，同时XANES谱图也证明近边结构更接近于PdO，Pd为氧化价态。</p>
-<p><img src="/2020/03/11/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/TIM%E6%88%AA%E5%9B%BE20200309144940.png" alt></p>
+<p><img src="/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/TIM%E6%88%AA%E5%9B%BE20200309144940.png" alt></p>
 <p>在350度煅烧去除有机物后，仍然有大量Pd单原子存在。</p>
-<p><img src="/2020/03/11/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/TIM%E6%88%AA%E5%9B%BE20200309153019.png" alt></p>
+<p><img src="/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/TIM%E6%88%AA%E5%9B%BE20200309153019.png" alt></p>
 <p>实验证明紫外线照射对Pd上Cl<sup>-</sup>，使用紫外线对PdCl<sub>2</sub>/TiO<sub>2</sub>照射10min后，Cl<sup>-</sup>全部被脱除到溶液中。该现归因于TiO<sub>2</sub>的光催化。单独对TiO<sub>2</sub>纳米片进行紫外线照射，之后进行测量，发现电子自选共振谱(ESR)中，发现很明显的Ti<sup>3+</sup>物种峰和对应乙二醇自由基(HOCH<sub>2</sub><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>⋅</mo></mrow><annotation encoding="application/x-tex">\cdot</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.44445em;vertical-align:0em;"></span><span class="mord">⋅</span></span></span></span>CHOH)的六个峰。在Pd/TiO<sub>2</sub>上同样可以得到乙二醇自由基和Ti<sup>3+</sup>说明在紫外照射后Ti<sup>4+</sup>得到一个电子，并且纳米片表面形成乙二醇自由基。乙二醇自由基在C上有个单电子。</p>
-<p><img src="/2020/03/11/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/TIM%E6%88%AA%E5%9B%BE20200309175646.png" alt></p>
+<p><img src="/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/TIM%E6%88%AA%E5%9B%BE20200309175646.png" alt></p>
 <h2 id="原理探索"><a class="markdownIt-Anchor" href="#原理探索"></a> 原理探索</h2>
 <p>根据光照前后的结果，文中认为是紫外线照射下TiO<sub>2</sub>产生一对电子空穴对，电子固定在Ti-3d轨道中形成Ti<sup>3+</sup>，空穴断开了乙二醇和TiO<sub>2</sub>之间的Ti-O键，形成自由基（-OCH<sub>2</sub>CH<sub>2</sub>O），并且这种自由基足够稳定。</p>
-<p><img src="/2020/03/11/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/TIM%E6%88%AA%E5%9B%BE20200309180407.png" alt></p>
+<p><img src="/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/TIM%E6%88%AA%E5%9B%BE20200309180407.png" alt></p>
 <p>之后文章研究了乙二醇自由基是如何促进[PdCl<sub>4</sub>]<sup>2-</sup>中的Cl<sup>-</sup>去除的，文中设计了一个实验，先对纳米片光照再放H<sub>2</sub>PdCl<sub>4</sub>，之后在进行紫外光照和H<sub>2</sub>处理。</p>
-<p><img src="/2020/03/11/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/TIM%E6%88%AA%E5%9B%BE20200311083232.png" alt></p>
+<p><img src="/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/TIM%E6%88%AA%E5%9B%BE20200311083232.png" alt></p>
 <p>在紫外光照后TiO<sub>2</sub>纳米片表面有乙二醇自由基。计算表明[PdCl<sub>4</sub>]<sup>2-</sup>一旦吸附在TiO<sub>2</sub>表面后就会释放两个Cl<sup>-</sup>基团，因此有PdCl<sub>2</sub>中间体，同时Pd会和两个O成键。</p>
-<p><img src="/2020/03/11/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/TIM%E6%88%AA%E5%9B%BE20200311084124.png" alt></p>
+<p><img src="/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/TIM%E6%88%AA%E5%9B%BE20200311084124.png" alt></p>
 <p>（红色为O，绿色Cl，蓝色Pd，灰色C，白色H）</p>
 <p>之后，乙二醇自由基的羟基OH进攻Pd位点并取代一个Cl<sup>-</sup>，导致PdCl<sub>1</sub>/TiO<sub>2</sub>中间体的形成。</p>
-<p><img src="/2020/03/11/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/TIM%E6%88%AA%E5%9B%BE20200311084738.png" alt></p>
+<p><img src="/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/TIM%E6%88%AA%E5%9B%BE20200311084738.png" alt></p>
 <p>除了理论计算，文中也使用了多种实验结果来验证这个结果。实验对比了标准实验光照之前的PdCl<sub>2</sub>/TiO<sub>2</sub>和先光照TiO<sub>2</sub>的PdCl<sub>1</sub>/TiO<sub>2</sub>的Pd：Cl比值。其中Cl数量由莫尔滴定法获得，Pd数量由ICP-MS获得。发现Pd：Cl比值从2:1下降到1:1。EXAFS也发现PdCl<sub>1</sub>/TiO<sub>2</sub>中Pd-O和Pd-Cl的配位数分别为3.1和1.1，同样验证了实验结果。</p>
-<p><img src="/2020/03/11/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/TIM%E6%88%AA%E5%9B%BE20200311090104.png" alt></p>
+<p><img src="/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/TIM%E6%88%AA%E5%9B%BE20200311090104.png" alt></p>
 <p>根据计算和实验结果结合可以得出乙二醇自由基确实起到去除Pd上的Cl<sup>-</sup>的能力。之后通入H<sub>2</sub>很容易去除PdCl<sub>1</sub>/TiO<sub>2</sub>中剩下的Cl<sup>-</sup>，生成H<sup>+</sup>和Cl<sup>-</sup>。水洗后H<sub>2</sub>O分子也会吸附在Pd原子上。</p>
-<p><img src="/2020/03/11/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/TIM%E6%88%AA%E5%9B%BE20200311094452.png" alt></p>
+<p><img src="/%E7%BA%B3%E7%B1%B3%E7%89%87%E8%A1%A8%E9%9D%A2%E5%90%88%E6%88%90%E7%A8%B3%E5%AE%9A%E9%AB%98%E5%88%86%E6%95%A3%E7%9A%84%E5%8D%95%E5%8E%9F%E5%AD%90%E5%82%AC%E5%8C%96%E5%89%82/TIM%E6%88%AA%E5%9B%BE20200311094452.png" alt></p>
 <h2 id="总结"><a class="markdownIt-Anchor" href="#总结"></a> 总结</h2>
 <p>文献<sup>[1]</sup>对制备过程的原理解释得非常的详细，首先TiO<sub>2</sub>靠静电作用吸附带负点的[PdCl<sub>4</sub>]<sup>2-</sup>，之后在光照下TiO<sub>2</sub>光催化产生乙二醇自由基，[PdCl<sub>4</sub>]<sup>2-</sup>吸附在O上后丢失两个Cl。之后很重要的一步是乙二醇自由基的羟基氧再取代一个Cl，这个非常重要的实验现象通过理论计算和各种表征手段共同验证。最终氢处理和水洗后得到稳定高分散的Pd单原子催化剂。</p>
 <h2 id="参考文献"><a class="markdownIt-Anchor" href="#参考文献"></a> 参考文献</h2>
@@ -76,33 +76,33 @@
   </entry>
   <entry>
     <title>VASP运行问题</title>
-    <url>/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/</url>
+    <url>/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/</url>
     <content><![CDATA[<p>最近在vasp计算时遇到一个个问题导致计算无法进行：</p>
 <p>mpirun has detected an attempt to run as root</p>
 <p>Open MPI does not support recursive calls of mpiexec</p>
 <p>具体情况是这样的：</p>
 <p>有一天我打开服务器输入计算指令准备开始计算，输入了mpirun -np 4 vasp_std后，弹出了下面的消息：</p>
-<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310122554.png" alt></p>
+<p><img src="/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310122554.png" alt></p>
 <p>它突然说我用root权限运行mpirun时会存在风险，最好加上 --allow-run-as-root命令。我：嗯？？？？之前用这么久也没见它提示过我有风险啊。好吧要我加就加上吧，结果：</p>
-<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310122936.png" alt></p>
+<p><img src="/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310122936.png" alt></p>
 <p>Open MPI does not support recursive calls of mpiexec</p>
 <p>说是openmpi不支持某某指令，好吧可能是mpi并行出现问题了，那我就不用mpirun的指令，只用vasp_std试试：</p>
-<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310122923.png" alt></p>
+<p><img src="/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310122923.png" alt></p>
 <p>结果还是这个mpiexec出现问题，按他的说法试用mpiexec --help:</p>
-<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310123036.png" alt></p>
+<p><img src="/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310123036.png" alt></p>
 <p>fxxk!!!</p>
-<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310123126.png" alt></p>
+<p><img src="/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310123126.png" alt></p>
 <p>一大堆不懂的指令，拉到底部显示的是</p>
-<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310123143.png" alt></p>
+<p><img src="/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/TIM%E6%88%AA%E5%9B%BE20200310123143.png" alt></p>
 <p>mpiexec这个指令也是属于openmpi的，那就是openmpi的问题。我上网查了一下也有人说这不是vasp的问题，是MPI库的问题。于是我花了一个下午把\opt\intel里的MPI库卸了重装了一次，发现还是不行。依然是一开始的指令。</p>
 <p>后来上网找了很多方法都没用。仔细想了想，现在vasp无法运行都是因为openmpi的问题，但是我安装的时候都只安装了MPI库和vasp，openmpi在哪里来的呢？</p>
-<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/openmpi.png" alt></p>
+<p><img src="/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/openmpi.png" alt></p>
 <p>是一个和vasp库和软件无关的位置，那是不是运行vasp的时候与这个openmpi冲突了？那么openmpi必须也是已经运行状态的，于是就差了一下.bashrc有没有配置openmpi。输入vi ~/.bashrc</p>
-<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/p4vasp.png" alt></p>
+<p><img src="/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/p4vasp.png" alt></p>
 <p>发现配置p4vasp环境的时候果然有配置openmpi，把这几行命令注释了，然后关闭重新进入超算。</p>
-<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/%E6%B3%A8%E9%87%8A.png" alt></p>
+<p><img src="/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/%E6%B3%A8%E9%87%8A.png" alt></p>
 <p>之后重新输入运行的指令，见到了熟悉的提醒！！！</p>
-<p><img src="/2020/03/10/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/%E6%88%90%E5%8A%9F.png" alt></p>
+<p><img src="/VASP%E8%BF%90%E8%A1%8C%E9%97%AE%E9%A2%98/%E6%88%90%E5%8A%9F.png" alt></p>
 <p>耶！！！！</p>
 ]]></content>
       <categories>
@@ -114,18 +114,18 @@
   </entry>
   <entry>
     <title>载体表面对催化剂合成的影响</title>
-    <url>/2020/03/05/%E8%BD%BD%E4%BD%93%E8%A1%A8%E9%9D%A2%E5%AF%B9%E5%82%AC%E5%8C%96%E5%89%82%E5%90%88%E6%88%90%E7%9A%84%E5%BD%B1%E5%93%8D/</url>
+    <url>/%E8%BD%BD%E4%BD%93%E8%A1%A8%E9%9D%A2%E5%AF%B9%E5%82%AC%E5%8C%96%E5%89%82%E5%90%88%E6%88%90%E7%9A%84%E5%BD%B1%E5%93%8D/</url>
     <content><![CDATA[<p>载体对金属催化剂的合成有至关重要的作用，它既可以提高金属的分散度，甚至合成单原子；也可以防止团聚。同时催化剂的活性、稳定性和选择性也受载体效应影响，载体效应也分为电子效应、界面效应（当活性中心不仅仅是金属组分而是金属和载体之间时，载体表现界面效应）和空间位阻效应。</p>
 <h2 id="1-载体表面性质对催化剂合成与催化性质的影响"><a class="markdownIt-Anchor" href="#1-载体表面性质对催化剂合成与催化性质的影响"></a> 1 载体表面性质对催化剂合成与催化性质的影响</h2>
 <h3 id="11-载体表面碳物种的影响"><a class="markdownIt-Anchor" href="#11-载体表面碳物种的影响"></a> 1.1 载体表面碳物种的影响</h3>
 <p>金属原子可以通过与载体表面配位未饱和的碳原子形成δ键或与载体表面的π键发生相互作用，锚定在载体表面。</p>
 <h3 id="12-载体表面氧物种的影响"><a class="markdownIt-Anchor" href="#12-载体表面氧物种的影响"></a> 1.2 载体表面氧物种的影响</h3>
 <p>有表面氧物种的载体有二氧化硅、二氧化钛、氧化铁等。表面氧物种可以协助去除Pd前驱体的去除，又可以稳定Pd原子。如图所示，将石墨烯放在酸中氧化，创造羰基、羟基、羧基等锚定位点，再加热去除羰基和羧基，将Pd取代羟基中的H。</p>
-<p><img src="/2020/03/05/%E8%BD%BD%E4%BD%93%E8%A1%A8%E9%9D%A2%E5%AF%B9%E5%82%AC%E5%8C%96%E5%89%82%E5%90%88%E6%88%90%E7%9A%84%E5%BD%B1%E5%93%8D/TIM%E6%88%AA%E5%9B%BE20200305111336.png" alt></p>
+<p><img src="/%E8%BD%BD%E4%BD%93%E8%A1%A8%E9%9D%A2%E5%AF%B9%E5%82%AC%E5%8C%96%E5%89%82%E5%90%88%E6%88%90%E7%9A%84%E5%BD%B1%E5%93%8D/TIM%E6%88%AA%E5%9B%BE20200305111336.png" alt></p>
 <p>也有可能载体表面的羟基和有机金属配合物的有机配体反应，使有机配体去除。</p>
 <h3 id="13-载体表面但物种的影响"><a class="markdownIt-Anchor" href="#13-载体表面但物种的影响"></a> 1.3 载体表面但物种的影响</h3>
 <p>掺氮石墨烯g-C<sub>3</sub>N<sub>4</sub>有明确碳氮摩尔比，结构明确，多个位点可用来稳定金属，改变金属电子结构。</p>
-<p><img src="/2020/03/05/%E8%BD%BD%E4%BD%93%E8%A1%A8%E9%9D%A2%E5%AF%B9%E5%82%AC%E5%8C%96%E5%89%82%E5%90%88%E6%88%90%E7%9A%84%E5%BD%B1%E5%93%8D/TIM%E6%88%AA%E5%9B%BE20200305120534.png" alt></p>
+<p><img src="/%E8%BD%BD%E4%BD%93%E8%A1%A8%E9%9D%A2%E5%AF%B9%E5%82%AC%E5%8C%96%E5%89%82%E5%90%88%E6%88%90%E7%9A%84%E5%BD%B1%E5%93%8D/TIM%E6%88%AA%E5%9B%BE20200305120534.png" alt></p>
 <h3 id="14-表面硫物种的影响"><a class="markdownIt-Anchor" href="#14-表面硫物种的影响"></a> 1.4 表面硫物种的影响</h3>
 <p>代表的载体有掺硫石墨烯、MoS<sub>2</sub>等。硫元素和铂金属有强配位作用，掺硫石墨烯可以负载铂单原子达到5wt%。</p>
 <h3 id="15-载体表面有机配体的影响"><a class="markdownIt-Anchor" href="#15-载体表面有机配体的影响"></a> 1.5 载体表面有机配体的影响</h3>
@@ -133,18 +133,18 @@
 <h3 id="16-载体表面缺陷的影响"><a class="markdownIt-Anchor" href="#16-载体表面缺陷的影响"></a> 1.6 载体表面缺陷的影响</h3>
 <p>氧化物载体拔除氧之后形成氧空穴可以作为缺陷中心，有利于合成单原子催化剂。</p>
 <p>当氧化镁载体的氧原子被过多的拔除后，就会产生配位不饱和的铝离子，<sup>27</sup>Al核磁证实铝离子为五配位。当负载铂后，固体核磁表明五配位铝减少，六配位铝增加，说明铂锚定在五配位铝处。</p>
-<p><img src="/2020/03/05/%E8%BD%BD%E4%BD%93%E8%A1%A8%E9%9D%A2%E5%AF%B9%E5%82%AC%E5%8C%96%E5%89%82%E5%90%88%E6%88%90%E7%9A%84%E5%BD%B1%E5%93%8D/TIM%E6%88%AA%E5%9B%BE20200305125445.png" alt></p>
+<p><img src="/%E8%BD%BD%E4%BD%93%E8%A1%A8%E9%9D%A2%E5%AF%B9%E5%82%AC%E5%8C%96%E5%89%82%E5%90%88%E6%88%90%E7%9A%84%E5%BD%B1%E5%93%8D/TIM%E6%88%AA%E5%9B%BE20200305125445.png" alt></p>
 <h2 id="2-agal2o3催化剂的合成"><a class="markdownIt-Anchor" href="#2-agal2o3催化剂的合成"></a> 2 Ag/Al<sub>2</sub>O<sub>3</sub>催化剂的合成</h2>
 <p>采用传统方法合成的负载量达30wt%的Ag/Al<sub>2</sub>O<sub>3</sub>催化剂，银负载不均匀，颗粒偏大。文中使用了巯基乙酸（HSCH<sub>2</sub>COOH）。<strong>羧酸锚定在氧化铝表面，在水溶液中巯基乙酸可以均匀锚定在氧化铝上，巯基与AgNO<sub>3</sub>配位</strong>。控制巯基乙酸的量可以控制银的负载量。为了控制负载量和粒径，首先合成15wt%粒径很小的晶种，再在温和还原条件下得到30wt%10nm的银纳米颗粒。</p>
 <p>文中采用了共晶煅烧还原法、浸渍还原再生法、巯基乙酸浸渍还原法和巯基乙酸种子生长法。前两种方法使用乙酸银负载在氧化铝上并进行还原，但是得到的粒子负载不均匀并且有大粒径粒子。</p>
 <p>因此作者想到用巯基乙酸、半胱氨酸和甘氨酸等修饰氧化铝。使用巯基乙酸浸渍还原法得到的粒子平均粒径为12.3nm，但还是有大颗粒存在。</p>
 <h3 id="21-出现大颗粒的原因"><a class="markdownIt-Anchor" href="#21-出现大颗粒的原因"></a> 2.1 出现大颗粒的原因</h3>
 <p>大颗粒有可能是硝酸银未吸附在氧化铝表面，为了验证这个想法。使用紫外可见光谱测量吸附硝酸银后的溶液。结果表明溶液中存在硝酸银，加入硼氢化钠后，溶液变色，硝酸银迅速被还原。</p>
-<p><img src="/2020/03/05/%E8%BD%BD%E4%BD%93%E8%A1%A8%E9%9D%A2%E5%AF%B9%E5%82%AC%E5%8C%96%E5%89%82%E5%90%88%E6%88%90%E7%9A%84%E5%BD%B1%E5%93%8D/TIM%E6%88%AA%E5%9B%BE20200305170132.png" alt></p>
+<p><img src="/%E8%BD%BD%E4%BD%93%E8%A1%A8%E9%9D%A2%E5%AF%B9%E5%82%AC%E5%8C%96%E5%89%82%E5%90%88%E6%88%90%E7%9A%84%E5%BD%B1%E5%93%8D/TIM%E6%88%AA%E5%9B%BE20200305170132.png" alt></p>
 <p>离心去掉上清液，三次水洗未吸附的硝酸银后，重新用硼氢化钠还原，使用XRD表征发现银纳米粒子的平均粒径为6.1nm，而且用看不到大颗粒。说明确实存在硝酸银不能吸附到载体表面，还原团聚成大颗粒的现象。</p>
 <h3 id="22-种子法生长提高负载量"><a class="markdownIt-Anchor" href="#22-种子法生长提高负载量"></a> 2.2 种子法生长提高负载量</h3>
 <p>为了避免大颗粒的出现，需要确保硝酸银粒子被吸附在载体表面，但是当加大负载量就难以避免硝酸银没有吸附而导致大颗粒。文中提到加入过量Ag前驱体和调pH都没有改善这种情况。因此决定先合成负载量低，粒子尺寸小的晶种，再在柠檬酸三钠的温和还原条件下缓慢长大。最终得到平均粒径为9.1nm的30wt%Ag/Al<sub>2</sub>O<sub>3</sub>催化剂。</p>
-<p><img src="/2020/03/05/%E8%BD%BD%E4%BD%93%E8%A1%A8%E9%9D%A2%E5%AF%B9%E5%82%AC%E5%8C%96%E5%89%82%E5%90%88%E6%88%90%E7%9A%84%E5%BD%B1%E5%93%8D/TIM%E6%88%AA%E5%9B%BE20200305173729.png" alt></p>
+<p><img src="/%E8%BD%BD%E4%BD%93%E8%A1%A8%E9%9D%A2%E5%AF%B9%E5%82%AC%E5%8C%96%E5%89%82%E5%90%88%E6%88%90%E7%9A%84%E5%BD%B1%E5%93%8D/TIM%E6%88%AA%E5%9B%BE20200305173729.png" alt></p>
 <h2 id="参考文献"><a class="markdownIt-Anchor" href="#参考文献"></a> 参考文献</h2>
 <p>吴庆远. 载体表面性质对负载型金属催化剂的合成与催化性质的影响[D].厦门大学,2018.</p>
 ]]></content>
@@ -154,29 +154,29 @@
   </entry>
   <entry>
     <title>CO辅助合成超薄纳米片原理</title>
-    <url>/2020/03/02/CO%E8%BE%85%E5%8A%A9%E5%90%88%E6%88%90%E8%B6%85%E8%96%84%E7%BA%B3%E7%B1%B3%E7%89%87%E5%8E%9F%E7%90%86/</url>
+    <url>/CO%E8%BE%85%E5%8A%A9%E5%90%88%E6%88%90%E8%B6%85%E8%96%84%E7%BA%B3%E7%B1%B3%E7%89%87%E5%8E%9F%E7%90%86/</url>
     <content><![CDATA[<h2 id="co辅助合成pt-cu超薄纳米片"><a class="markdownIt-Anchor" href="#co辅助合成pt-cu超薄纳米片"></a> CO辅助合成Pt-Cu超薄纳米片</h2>
 <p>文献<sup>[1]</sup>利用CO辅助合成超薄PtCu合金纳米片，这里主要围绕这篇文章研究CO合成纳米片的机理。CO的引入是形成Pt纳米片的关键。同时Cu的引入使CO从优先吸附(100)转为优先吸附(111)。实验步骤为Pt(acac)<sub>2</sub>，Cu(acac)<sub>2</sub>，KI，PVP加入甲酰胺溶剂混合，1atmCO气氛下升温到130度反应3h。</p>
 <p>甲酰胺结构式，酰胺是羧基的羟基被氨基取代。氮上面的未共用电子对与羰基的<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>π</mi></mrow><annotation encoding="application/x-tex">\pi</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03588em;">π</span></span></span></span>电子共轭，所以酰胺碱性很弱</p>
-<p><img src="/2020/03/02/CO%E8%BE%85%E5%8A%A9%E5%90%88%E6%88%90%E8%B6%85%E8%96%84%E7%BA%B3%E7%B1%B3%E7%89%87%E5%8E%9F%E7%90%86/21a4462309f7905216a9de9c0ff3d7ca7acbd5da.png" alt></p>
+<p><img src="/CO%E8%BE%85%E5%8A%A9%E5%90%88%E6%88%90%E8%B6%85%E8%96%84%E7%BA%B3%E7%B1%B3%E7%89%87%E5%8E%9F%E7%90%86/21a4462309f7905216a9de9c0ff3d7ca7acbd5da.png" alt></p>
 <h2 id="1-ptcu纳米片的形成机理"><a class="markdownIt-Anchor" href="#1-ptcu纳米片的形成机理"></a> 1 PtCu纳米片的形成机理</h2>
 <p>通过TEM和ICP研究不同反应产生的纳米晶体。1小时时产生平均尺寸为5nm的纳米片。到3h时，产生13nm的较大尺寸。时间增加到6h时没有结构和尺寸的显著变化。而ICP结果表示，随着反应从1小时到6小时，Cu和Pt的摩尔比从66.7%逐渐升到8.1%。</p>
-<p><img src="/2020/03/02/CO%E8%BE%85%E5%8A%A9%E5%90%88%E6%88%90%E8%B6%85%E8%96%84%E7%BA%B3%E7%B1%B3%E7%89%87%E5%8E%9F%E7%90%86/TIM%E6%88%AA%E5%9B%BE20200229161248.png" alt></p>
+<p><img src="/CO%E8%BE%85%E5%8A%A9%E5%90%88%E6%88%90%E8%B6%85%E8%96%84%E7%BA%B3%E7%B1%B3%E7%89%87%E5%8E%9F%E7%90%86/TIM%E6%88%AA%E5%9B%BE20200229161248.png" alt></p>
 <p>发现I<sup>-</sup>离子非常关键，不存在KI或换成KBr都只能形成纳米粒子。I<sup>-</sup>离子有调节Pt(II)还原速率的作用，同时可以将Cu(II)还原成Cu(I)(0.153V，但是查表发现I的标准电势没一个低于这个)。同时，不存在CO时只产生不规则小颗粒。引入Cu时，CO会优先吸附在Pt(111)面上，防止PtCu(111)面的生长，可以通过CO溶出曲线来证明。</p>
 <p>当没有Cu加入时，未观测到纳米片的形成，只有Pt纳米粒子。而没有加入Pt前驱体时，Cu的前驱体不可以被还原成Cu(0)。表面Cu随着Pt晶核形成而加入到晶格中，是自催化生长机制(不懂)。没有PVP也可以形成PtCu纳米片，但会导致纳米片严重聚集。</p>
 <h2 id="2-i-离子的作用"><a class="markdownIt-Anchor" href="#2-i-离子的作用"></a> 2 I<sup>-</sup>离子的作用</h2>
 <p>碘离子在材料合成中起到非常重要的作用，<strong>可以调节前驱体的还原电势</strong>。文献<sup>[2]</sup>在还原Pt-Au合金过程中加入了KI。如果没有加入KI的话，Au(III)应该在Pt(IV)之前还原，因为前驱体的标准还原电势AuCl<sub>4</sub><sup>-</sup>/Au(1.00V vs. SHE)高于PtCl<sub>6</sub><sup>2-</sup>/Pt(0.76V vs. SHE)。而加入了KI后，前驱体的配位方式发生了改变，变成了更稳定的[PtI<sub>6</sub>]<sup>2-</sup>和[AuI<sub>4</sub>]<sup>-</sup>（通过紫外可见光谱可以验证）。通过CV曲线检测两种前驱体的还原电势为：Aul<sub>4</sub><sup>-</sup>/Au(0.24V vs. SHE)和PtI<sub>6</sub><sup>2-</sup>/Pt(0.325V vs. SHE)，因此Pt(IV)应先于Au(III)还原，而且由于它们还原电势相近，Pt(IV)和Au(III)倾向于共还原，因此可以产生均匀的Pt-Au合金。另外，<strong>由于I<sup>-</sup>的选择性晶面吸附，可以通过I<sup>-</sup>调控合金形貌</strong>。I<sup>-</sup>会选择性吸附在Pt{100}和Au(111)晶面，因此Pt{111}和Au{100}面有竞争性生长，最终产生Pt-Au合金三八面体。</p>
 <p>Huang等<sup>[3]</sup>使用了Pt(acac)<sub>2</sub>和Pd(acac)<sub>2</sub>做前驱体，KI为添加剂合成了Pd-Pt空心纳米粒子，反应一开始形成了实心的Pd纳米立方体，之后Pd立方体被腐蚀，Pt原子逐渐被还原在粒子上。事实上Pt(II)/Pt的还原电势比Pd(II)/Pd的更正，Pt应该先于Pd被还原，而为什么实验结果却相反呢？</p>
-<p><img src="/2020/03/02/CO%E8%BE%85%E5%8A%A9%E5%90%88%E6%88%90%E8%B6%85%E8%96%84%E7%BA%B3%E7%B1%B3%E7%89%87%E5%8E%9F%E7%90%86/TIM%E6%88%AA%E5%9B%BE20200301215511.png" alt></p>
+<p><img src="/CO%E8%BE%85%E5%8A%A9%E5%90%88%E6%88%90%E8%B6%85%E8%96%84%E7%BA%B3%E7%B1%B3%E7%89%87%E5%8E%9F%E7%90%86/TIM%E6%88%AA%E5%9B%BE20200301215511.png" alt></p>
 <p>实验发现当KI分别加入Pt(acac)<sub>2</sub>和Pd(acac)<sub>2</sub>溶液时，Pd(acac)<sub>2</sub>溶液变色了而Pt(acac)<sub>2</sub>溶液没变色，说明Pd(II)的配体变成了I<sup>-</sup>而Pt(II)没变。因此反应前驱体中稳定存在的是[PtI<sub>4</sub>]<sup>2-</sup>和[Pd(acac)<sub>2</sub>]，此时Pt(II)/Pt的还原电势比Pd(II)/Pd的负，Pd立方体先被还原。之后发生了Pd和Pt(II)的置换反应，实验发现没有I<sup>-</sup>的话置换反应同样无法顺利进行，也无法产生空心结构。因此I<sup>-</sup>可能与被氧化的Pd(II)产生强配位，加速置换反应，同时Pd原子的快速扩散产生空心结构。文中还提到，弱还原剂和较低的反应温度是形成空心结构的必要条件，否则快速的还原反应会导致Pt和Pd一开始同时被还原并且两相分离。</p>
 <h2 id="3-co制备纳米片的原理"><a class="markdownIt-Anchor" href="#3-co制备纳米片的原理"></a> 3  CO制备纳米片的原理</h2>
 <p>文献<sup>[4]</sup>在CO气氛下还原制备了Pd纳米片，其厚度主要为1.8-2nm。实验结果证明纳米片中(111)面占晶面的96%。而<strong>CO会强吸附在Pd(111)面上，因为抑制作用太强，(111)面上只能长少于10个原子层</strong>。同时CTAB中的Br<sup>-</sup>吸附在Pb(100)面上，因此纳米片的边是(100)面，CTAB的加入是形成均匀六边形的原因。而PVP的作用是阻止纳米片团聚。</p>
-<p><img src="/2020/03/02/CO%E8%BE%85%E5%8A%A9%E5%90%88%E6%88%90%E8%B6%85%E8%96%84%E7%BA%B3%E7%B1%B3%E7%89%87%E5%8E%9F%E7%90%86/TIM%E6%88%AA%E5%9B%BE20200301235338.png" alt></p>
+<p><img src="/CO%E8%BE%85%E5%8A%A9%E5%90%88%E6%88%90%E8%B6%85%E8%96%84%E7%BA%B3%E7%B1%B3%E7%89%87%E5%8E%9F%E7%90%86/TIM%E6%88%AA%E5%9B%BE20200301235338.png" alt></p>
 <p>CO气氛下，Pd一开始就是纳米片，逐渐生长。而同样方法用在Rh纳米片合成上则是先生长出纳米粒子，来为了减小表面能，团聚成变成纳米片<sup>[5]</sup>。</p>
-<p><img src="/2020/03/02/CO%E8%BE%85%E5%8A%A9%E5%90%88%E6%88%90%E8%B6%85%E8%96%84%E7%BA%B3%E7%B1%B3%E7%89%87%E5%8E%9F%E7%90%86/TIM%E6%88%AA%E5%9B%BE20200302000824.png" alt></p>
+<p><img src="/CO%E8%BE%85%E5%8A%A9%E5%90%88%E6%88%90%E8%B6%85%E8%96%84%E7%BA%B3%E7%B1%B3%E7%89%87%E5%8E%9F%E7%90%86/TIM%E6%88%AA%E5%9B%BE20200302000824.png" alt></p>
 <h2 id="4-合金的引入对co吸附面的影响"><a class="markdownIt-Anchor" href="#4-合金的引入对co吸附面的影响"></a> 4 合金的引入对CO吸附面的影响</h2>
 <p>文献<sup>[1]</sup>中由于Cu的引入导致CO特定吸附面的改变，这一现象在文献<sup>[6]</sup>中也有出现。文献<sup>[6]</sup>在了CO气氛下制备了Pt-Ni八面体合金。然而，实验结果证明CO更倾向于吸附在Pt(100)面而不是Pt(111)面。图中B为只有Pt前驱体时，在CO气氛下得到Pt立方体，证明CO更倾向于吸附在Pt(100)面上。而图中C是引入了Cu前驱体形成Pt-Cu八面体，<strong>说明第二金属的引入改变了CO的吸附取向</strong>。同时，足够的第二金属含量比例也是导致CO吸附取向改变的必要条件，文献中发现当Ni前驱体的含量比标准值减少70%时，只能形成有截角的八面体。</p>
-<p><img src="/2020/03/02/CO%E8%BE%85%E5%8A%A9%E5%90%88%E6%88%90%E8%B6%85%E8%96%84%E7%BA%B3%E7%B1%B3%E7%89%87%E5%8E%9F%E7%90%86/TIM%E6%88%AA%E5%9B%BE20200302120105.png" alt></p>
+<p><img src="/CO%E8%BE%85%E5%8A%A9%E5%90%88%E6%88%90%E8%B6%85%E8%96%84%E7%BA%B3%E7%B1%B3%E7%89%87%E5%8E%9F%E7%90%86/TIM%E6%88%AA%E5%9B%BE20200302120105.png" alt></p>
 <h2 id="参考文献"><a class="markdownIt-Anchor" href="#参考文献"></a> 参考文献</h2>
 <p>[1]代磊. 超薄二维纳米材料的合成制备及其在电化学能源转换反应中的应用[D].厦门大学,2017.</p>
 <p>[2] Dai L, Zhao Y, Chi Q, et al. Morphological control and evolution of octahedral and truncated trisoctahedral Pt–Au alloy nanocrystals under microwave irradiation[J]. Nanoscale, 2014, 6(17): 9944-9950.</p>
@@ -188,7 +188,7 @@
   </entry>
   <entry>
     <title>纳米粒子合成过程中pH对尺寸和形貌的影响</title>
-    <url>/2020/02/15/%E7%BA%B3%E7%B1%B3%E7%B2%92%E5%AD%90%E5%90%88%E6%88%90%E8%BF%87%E7%A8%8B%E4%B8%ADpH%E5%AF%B9%E5%B0%BA%E5%AF%B8%E5%92%8C%E5%BD%A2%E8%B2%8C%E7%9A%84%E5%BD%B1%E5%93%8D/</url>
+    <url>/%E7%BA%B3%E7%B1%B3%E7%B2%92%E5%AD%90%E5%90%88%E6%88%90%E8%BF%87%E7%A8%8B%E4%B8%ADpH%E5%AF%B9%E5%B0%BA%E5%AF%B8%E5%92%8C%E5%BD%A2%E8%B2%8C%E7%9A%84%E5%BD%B1%E5%93%8D/</url>
     <content><![CDATA[<h2 id="纳米粒子合成过程中ph对粒径和形貌的影响"><a class="markdownIt-Anchor" href="#纳米粒子合成过程中ph对粒径和形貌的影响"></a> 纳米粒子合成过程中pH对粒径和形貌的影响</h2>
 <h3 id="1-ph促进硫脲沉淀调控cds粒子形貌"><a class="markdownIt-Anchor" href="#1-ph促进硫脲沉淀调控cds粒子形貌"></a> 1 pH促进硫脲沉淀调控CdS粒子形貌</h3>
 <p>Ren等[1]以Cd(NO<sub>3</sub>)<sub>2</sub>作前驱体，以硫脲为硫源在水热条件下制备CdS纳米粒子，并分别添加NaOH和NH<sub>4</sub>OH作为pH调节剂（调节pH分别为8,9,10,11）。</p>
@@ -200,7 +200,7 @@
 <p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msub><mrow><mi mathvariant="normal">N</mi><mi mathvariant="normal">H</mi></mrow><mn>2</mn></msub><msub><mrow><mi mathvariant="normal">C</mi><mi mathvariant="normal">S</mi><mi mathvariant="normal">N</mi><mi mathvariant="normal">H</mi></mrow><mn>2</mn></msub><mo>+</mo><msub><mi mathvariant="normal">H</mi><mn>2</mn></msub><mi mathvariant="normal">O</mi><mo>→</mo><mn>2</mn><msub><mrow><mi mathvariant="normal">N</mi><mi mathvariant="normal">H</mi></mrow><mn>3</mn></msub><mo>+</mo><msub><mi mathvariant="normal">H</mi><mn>2</mn></msub><mi mathvariant="normal">S</mi><mo>+</mo><msub><mrow><mi mathvariant="normal">C</mi><mi mathvariant="normal">O</mi></mrow><mn>2</mn></msub></mrow><annotation encoding="application/x-tex">\mathrm{NH}_{2} \mathrm{CSNH}_{2}+\mathrm{H}_{2} \mathrm{O} \rightarrow 2 \mathrm{NH}_{3}+\mathrm{H}_{2} \mathrm{S}+\mathrm{CO}_{2}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord"><span class="mord mathrm">N</span><span class="mord mathrm">H</span></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord"><span class="mord mathrm">C</span><span class="mord mathrm">S</span><span class="mord mathrm">N</span><span class="mord mathrm">H</span></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord"><span class="mord mathrm">H</span></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathrm">O</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">→</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord">2</span><span class="mord"><span class="mord"><span class="mord mathrm">N</span><span class="mord mathrm">H</span></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">3</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord"><span class="mord mathrm">H</span></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathrm">S</span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord"><span class="mord mathrm">C</span><span class="mord mathrm">O</span></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></p>
 <p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mrow><mi mathvariant="normal">P</mi><mi mathvariant="normal">b</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>+</mo><msub><mi mathvariant="normal">H</mi><mn>2</mn></msub><mi mathvariant="normal">S</mi><mo>→</mo><mrow><mi mathvariant="normal">P</mi><mi mathvariant="normal">b</mi><mi mathvariant="normal">S</mi></mrow><mo>+</mo><mn>2</mn><msup><mi mathvariant="normal">H</mi><mo>+</mo></msup></mrow><annotation encoding="application/x-tex">\mathrm{Pb}^{2+}+\mathrm{H}_{2} \mathrm{S} \rightarrow \mathrm{PbS}+2 \mathrm{H}^{+}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.9817779999999999em;vertical-align:-0.08333em;"></span><span class="mord"><span class="mord"><span class="mord mathrm">P</span><span class="mord mathrm">b</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8984479999999999em;"><span style="top:-3.14734em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="mord mtight">+</span></span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord"><span class="mord mathrm">H</span></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathrm">S</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">→</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.77777em;vertical-align:-0.08333em;"></span><span class="mord"><span class="mord mathrm">P</span><span class="mord mathrm">b</span><span class="mord mathrm">S</span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.771331em;vertical-align:0em;"></span><span class="mord">2</span><span class="mord"><span class="mord"><span class="mord mathrm">H</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.771331em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">+</span></span></span></span></span></span></span></span></span></span></span></span></p>
 <p>而L-赖氨酸通过与金属离子作用在形貌控制方面起到重要作用。而不同pH下不同的L-赖氨酸离子化平衡不一样：</p>
-<p><img src="/2020/02/15/%E7%BA%B3%E7%B1%B3%E7%B2%92%E5%AD%90%E5%90%88%E6%88%90%E8%BF%87%E7%A8%8B%E4%B8%ADpH%E5%AF%B9%E5%B0%BA%E5%AF%B8%E5%92%8C%E5%BD%A2%E8%B2%8C%E7%9A%84%E5%BD%B1%E5%93%8D/TIM%E6%88%AA%E5%9B%BE20200215171937.png" alt></p>
+<p><img src="/%E7%BA%B3%E7%B1%B3%E7%B2%92%E5%AD%90%E5%90%88%E6%88%90%E8%BF%87%E7%A8%8B%E4%B8%ADpH%E5%AF%B9%E5%B0%BA%E5%AF%B8%E5%92%8C%E5%BD%A2%E8%B2%8C%E7%9A%84%E5%BD%B1%E5%93%8D/TIM%E6%88%AA%E5%9B%BE20200215171937.png" alt></p>
 <p>在酸性条件下羧基可以稳定存在，氨基变成铵根离子；中性条件下羧基失去质子，而同时存在铵根离子、碱性条件下则铵根离子全转为氨基。在不同pH态下有不同的基团，会影响赖氨酸与金属离子的作用方式，影响最终形貌。</p>
 <h3 id="3-ph加速pt还原反应调控粒径"><a class="markdownIt-Anchor" href="#3-ph加速pt还原反应调控粒径"></a> 3 pH加速Pt还原反应调控粒径</h3>
 <p>Berceste等[3]使用水合肼作还原剂还原H<sub>2</sub>PtCl<sub>6</sub>，并研究不同pH条件下得到的Pt粒子粒径大小，发现随着pH的增加，Pt粒子粒径减小。根据水合肼还原H<sub>2</sub>PtCl<sub>6</sub>的反应机理：</p>
@@ -222,10 +222,10 @@
   </entry>
   <entry>
     <title>季铵盐在纳米粒子合成中的作用</title>
-    <url>/2020/02/15/%E5%AD%A3%E9%93%B5%E7%9B%90%E5%9C%A8%E7%BA%B3%E7%B1%B3%E7%B2%92%E5%AD%90%E5%90%88%E6%88%90%E4%B8%AD%E7%9A%84%E4%BD%9C%E7%94%A8/</url>
+    <url>/%E5%AD%A3%E9%93%B5%E7%9B%90%E5%9C%A8%E7%BA%B3%E7%B1%B3%E7%B2%92%E5%AD%90%E5%90%88%E6%88%90%E4%B8%AD%E7%9A%84%E4%BD%9C%E7%94%A8/</url>
     <content><![CDATA[<h2 id="1-什么是季铵盐"><a class="markdownIt-Anchor" href="#1-什么是季铵盐"></a> 1 什么是季铵盐</h2>
 <p>季铵盐由烷基铵阳离子和阴离子（主要是卤素离子）构成。常用的季铵盐有十六烷基三甲基溴化铵（CTAB）、十四烷基三甲基溴化铵（TTAB）、十六烷基三甲基氯化铵（CTAC）、四甲基溴化按（TMAB）。</p>
-<p><img src="/2020/02/15/%E5%AD%A3%E9%93%B5%E7%9B%90%E5%9C%A8%E7%BA%B3%E7%B1%B3%E7%B2%92%E5%AD%90%E5%90%88%E6%88%90%E4%B8%AD%E7%9A%84%E4%BD%9C%E7%94%A8/810a19d8bc3eb13598a781bda61ea8d3fd1f4457.jpg" alt></p>
+<p><img src="/%E5%AD%A3%E9%93%B5%E7%9B%90%E5%9C%A8%E7%BA%B3%E7%B1%B3%E7%B2%92%E5%AD%90%E5%90%88%E6%88%90%E4%B8%AD%E7%9A%84%E4%BD%9C%E7%94%A8/810a19d8bc3eb13598a781bda61ea8d3fd1f4457.jpg" alt></p>
 <p><em>CTAB</em></p>
 <h2 id="2-为什么使用季铵盐"><a class="markdownIt-Anchor" href="#2-为什么使用季铵盐"></a> 2 为什么使用季铵盐</h2>
 <p>在纳米粒子合成中液相还原法是最为普遍的应用方法。液相还原法使用还原剂还原金属盐，使金属离子配合物生成金属纳米粒子。在还原过程中一般加入保护剂、稳定剂、刻蚀剂等试剂调控粒径和形貌。常用的有聚乙稀吡咯烷酮（PVP）、季铵盐（C<sub>n</sub>TAB、C<sub>n</sub>TAC）、柠檬酸盐（Citrate）、卤素离子（Cl<sup>-</sup>）、生物分子以及有刻蚀作用的无机物如Cl<sup>-</sup>(Br<sup>-</sup>)/O<sub>2</sub>、Fe<sup>3+</sup>等。</p>
