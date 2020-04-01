@@ -1,6 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>表征技术</title>
+    <url>/%E8%A1%A8%E5%BE%81%E6%8A%80%E6%9C%AF/</url>
+    <content><![CDATA[<p>证明物质的吸附。使用程序升温脱附/质谱(TPD-MS)检测脱附的物质和吸附的强度。文献<sup>[1]</sup>使用TPD-MS证明了NH<sub>3</sub>在Co<sub>3</sub>O<sub>4</sub>表面强结合。检测Co<sub>3</sub>O<sub>4</sub>在真空加热下释放的物质。从图1可以看到NH<sub>3</sub>在160-310度下的释放。说明了NH<sub>3</sub>的强吸附。</p>
+<p><img src="/%E8%A1%A8%E5%BE%81%E6%8A%80%E6%9C%AF/TIM%E6%88%AA%E5%9B%BE20200401123710.png" alt></p>
+<p>图1</p>
+<h2 id="参考文献"><a class="markdownIt-Anchor" href="#参考文献"></a> 参考文献</h2>
+<p>[1] 代磊. 超薄二维纳米材料的合成制备及其在电化学能源转换反应中的应用[D].厦门大学,2017.</p>
+]]></content>
+      <categories>
+        <category>实验原理</category>
+      </categories>
+      <tags>
+        <tag>表征</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>XPS检测d带中心变化</title>
+    <url>/XPS%E6%A3%80%E6%B5%8Bd%E5%B8%A6%E4%B8%AD%E5%BF%83%E5%8F%98%E5%8C%96/</url>
+    <content><![CDATA[<h2 id="1-xps基本原理"><a class="markdownIt-Anchor" href="#1-xps基本原理"></a> 1 XPS基本原理</h2>
+<p>在原子中电子的轨道运动能量状态是不连续的，一般表征其性质由主量子数、角量子数、自旋量子数、总量字数等表示。当电子处于某特定轨道运动时，给电子能量比如一个能量足够高的光子，电子可以被激发到更高能量的轨道位置甚至脱离原子的束缚变成自由光电子。<strong>XPS的基本原理就是用X射线激发电子成光电子之后测量光电子的动能</strong>。</p>
+<h3 id="11-结合能eb"><a class="markdownIt-Anchor" href="#11-结合能eb"></a> 1.1 结合能E<sub>B</sub></h3>
+<p>当光子动能hv足够大时，就可以激发动能为E<sub>K</sub>的光电子：</p>
+<p>A + hv -&gt; A<sup>*</sup> + e<sup>-</sup></p>
+<p>根据电离守恒：</p>
+<p>E<sup>i</sup>(n) + hv = E<sup>f</sup>(n-1, k) + E<sub>K</sub></p>
+<p>定义结合能为：E<sub>B</sub> =  E<sup>f</sup>(n-1, k) - E<sup>i</sup>(n)，表示为原子有无该电子时的能量差。</p>
+<p>得到爱因斯坦光电发射定律：E<sub>K</sub> = hv - E<sub>B</sub></p>
+<p><strong>可以通过入射光子能量减去光电子动能得到结合能</strong>。</p>
+<p>介绍一些结合能的重要性质：</p>
+<ol>
+<li>要激发出光电子，光子能量要大于结合能与功函数(定义为真空中静止电子能量和费米能级处电子能量的差)的和。所以我觉得结合能可以简单粗暴地理解为费米能级和轨道能级的差。</li>
+<li>每一种元素都有特定的电子排布（唯一一套芯能级排布），得到的结合能图谱可以用作元素的指纹。</li>
+<li>元素质子数增加时，轨道结合能增加</li>
+<li>轨道结合能不受同位素影响</li>
+</ol>
+<h3 id="12-化学位移"><a class="markdownIt-Anchor" href="#12-化学位移"></a> 1.2 化学位移</h3>
+<p>XPS图谱一般是元素某轨道结合能与强度关系图，如图1是Ti和TiO<sub>2</sub>中Ti元素2p轨道，可以发现两个曲线都有两个主要的峰，而Ti的两个峰相对于TiO<sub>2</sub>的两个峰发生了整体位移。说明Ti固体的Ti2p轨道结合能相对于TiO<sub>2</sub>的Ti2p轨道结合能有相对移动。该现象可以通过化学位移解释。化学位移定义为：<strong>原子因所处化学环境不同（化合物结构的变化和元素氧化状态的变化）而引起的内壳层电子结合能变化</strong>，在谱图上<br>
+表现为谱峰有规律的位移，这种现象即为化学位移 。</p>
+<p><img src="/XPS%E6%A3%80%E6%B5%8Bd%E5%B8%A6%E4%B8%AD%E5%BF%83%E5%8F%98%E5%8C%96/TIM%E6%88%AA%E5%9B%BE20200330174527.png" alt></p>
+<p>图1 Ti和TiO<sub>2</sub>中Ti元素2p轨道</p>
+<p>指纹</p>
+<p>化学位移</p>
+]]></content>
+      <categories>
+        <category>实验原理</category>
+      </categories>
+      <tags>
+        <tag>XPS</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>催化剂与碳载体相互作用机理</title>
     <url>/%E5%82%AC%E5%8C%96%E5%89%82%E4%B8%8E%E7%A2%B3%E8%BD%BD%E4%BD%93%E7%9B%B8%E4%BA%92%E4%BD%9C%E7%94%A8%E6%9C%BA%E7%90%86/</url>
     <content><![CDATA[<h2 id="1-pt纳米粒子与碳载体的相互作用"><a class="markdownIt-Anchor" href="#1-pt纳米粒子与碳载体的相互作用"></a> 1. Pt纳米粒子与碳载体的相互作用</h2>
@@ -36,6 +87,15 @@
 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>→</mo><msup><mrow><mo fence="true">[</mo><mi mathvariant="normal">C</mi><mo>−</mo><mi mathvariant="normal">O</mi><mo>−</mo><mrow><mi mathvariant="normal">P</mi><mi mathvariant="normal">t</mi></mrow><mo stretchy="false">(</mo><mrow><mi mathvariant="normal">I</mi><mi mathvariant="normal">I</mi></mrow><mo stretchy="false">)</mo><msub><mrow><mi mathvariant="normal">C</mi><mi mathvariant="normal">l</mi></mrow><mn>3</mn></msub><mo fence="true">]</mo></mrow><mo>−</mo></msup></mrow><annotation encoding="application/x-tex">\rightarrow\left[\mathrm{C}-\mathrm{O}-\mathrm{Pt}(\mathrm{II}) \mathrm{Cl}_{3}\right]^{-}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mrel">→</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.161231em;vertical-align:-0.25em;"></span><span class="minner"><span class="minner"><span class="mopen delimcenter" style="top:0em;">[</span><span class="mord"><span class="mord mathrm">C</span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord"><span class="mord mathrm">O</span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord"><span class="mord mathrm">P</span><span class="mord mathrm">t</span></span><span class="mopen">(</span><span class="mord"><span class="mord mathrm">I</span><span class="mord mathrm">I</span></span><span class="mclose">)</span><span class="mord"><span class="mord"><span class="mord mathrm">C</span><span class="mord mathrm">l</span></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">3</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mclose delimcenter" style="top:0em;">]</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.911231em;"><span style="top:-3.2029em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span></span></span></span></span></span></span></span></span></span></span></span><br>
 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>+</mo><mn>3</mn><mrow><mi mathvariant="normal">H</mi><mi mathvariant="normal">C</mi><mi mathvariant="normal">l</mi></mrow></mrow><annotation encoding="application/x-tex">+3 \mathrm{HCl}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.77777em;vertical-align:-0.08333em;"></span><span class="mord">+</span><span class="mord">3</span><span class="mord"><span class="mord mathrm">H</span><span class="mord mathrm">C</span><span class="mord mathrm">l</span></span></span></span></span> (吸附的同时发生还原反应) (8)</p>
 <p>根据这个模型，配体Cl<sup>-</sup>会被基团取代。式(7)中会出现水分子配体，式(8)则形成C-O-Pt.</p>
+<h2 id="3-处理碳载体表面提高催化剂活性"><a class="markdownIt-Anchor" href="#3-处理碳载体表面提高催化剂活性"></a> 3 处理碳载体表面提高催化剂活性</h2>
+<h3 id="31-氧化处理碳载体"><a class="markdownIt-Anchor" href="#31-氧化处理碳载体"></a> 3.1 氧化处理碳载体</h3>
+<p>一些通常类型的含氧基团(羧基、酚基、内酯基)如图3所示</p>
+<p><img src="/%E5%82%AC%E5%8C%96%E5%89%82%E4%B8%8E%E7%A2%B3%E8%BD%BD%E4%BD%93%E7%9B%B8%E4%BA%92%E4%BD%9C%E7%94%A8%E6%9C%BA%E7%90%86/TIM%E6%88%AA%E5%9B%BE20200330085908.png" alt></p>
+<p>图3 几种碳载体上的含氧官能团</p>
+<p>碳载体表面氧化处理会导致酸位点的形成和碱位点的损坏。通常可以通过加入氧化剂进行处理：HNO<sub>3</sub>, H<sub>2</sub>SO<sub>4</sub>, H<sub>3</sub>PO<sub>4</sub>, H<sub>2</sub>O<sub>2</sub>, O<sub>2</sub>, O<sub>3</sub>, KClO<sub>3</sub>, KMnO<sub>4</sub>等。形成的酸中心可以降低碳的疏水性，使碳载体更易于与水溶液的金属前驱体接触。图4说明了随着含氧官能团增加、Pt沉淀增加，因此载体疏水性高时一般都要氧化处理。进一步讲，这种酸性含氧基团的引入增强了前驱体或纳米粒子与碳载体的相互作用，并最小化Pt/C的烧结(增强相互作用可以减少烧结的损失)。</p>
+<p><img src="/%E5%82%AC%E5%8C%96%E5%89%82%E4%B8%8E%E7%A2%B3%E8%BD%BD%E4%BD%93%E7%9B%B8%E4%BA%92%E4%BD%9C%E7%94%A8%E6%9C%BA%E7%90%86/TIM%E6%88%AA%E5%9B%BE20200330095724.png" alt></p>
+<p>图4 Pt沉淀分布于含氧官能团数，官能团数通过TPD产生的CO数得到。</p>
+<p>Torres等<sup>[10]</sup>认为不同氧化剂处理会得到不同的碳载体。羰基和酸酐(两个羧基连成环)是强酸基团，内酯、酚类和羰基是弱酸基团(含的氧少，电负性弱，酸性弱)。在TPD中释放CO<sub>2</sub>的是强酸基团，释放CO的是弱酸基团。通过TPD检测发现HNO<sub>3</sub>处理碳载体得到高浓度的强和弱酸基团，而H<sub>2</sub>O<sub>2</sub>和O<sub>3</sub>处理则是高浓度的弱酸基团和低浓度的强酸基团，而Pt前驱体与H<sub>2</sub>O<sub>2</sub>和O<sub>3</sub>处理的碳载体的相互作用更强。说明相比强酸性含氧官能团，Pt前驱体与弱酸性含氧官能团相互作用更强。</p>
 <h2 id="参考文献"><a class="markdownIt-Anchor" href="#参考文献"></a> 参考文献</h2>
 <p>[1] A.K. Shukla, M.K. Ravikumar, A. Roy, S.R. Barman, D.D. Sarma, A.S.<br>
 Arico, V. Antonucci, L. Pino, N. Giordano, J. Electrochem. Soc. 141 `<br>
@@ -50,6 +110,7 @@ Arico, V. Antonucci, L. Pino, N. Giordano, J. Electrochem. Soc. 141 `<br>
 <p>[8] S. De Miguel, O. Scelza, M. Romanmartinez, C. Salinas-Martinez, D.<br>
 Cazorlaamoros, A. Linares-Solano, Appl. Catal. A 170 (1998) 93.</p>
 <p>[9] J. Lambert, M. Che, J. Mol. Catal. A 162 (2000) 5.</p>
+<p>[10] G. Torres, E. Iablonski, G. Baronetti, A. Castro, S. De Miguel, O. Scelza, M. Blanco, M. Pena Jimenez, J. Fierro, Appl. Catal. A 161 (1997) 213.</p>
 ]]></content>
       <categories>
         <category>实验原理</category>
